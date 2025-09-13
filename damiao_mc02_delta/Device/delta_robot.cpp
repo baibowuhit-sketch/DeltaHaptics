@@ -2,7 +2,7 @@
  * delta_robot.cpp
  *
  *  Created on: Mar 17, 2025
- *      Author: 19325
+ *      Author: 19325vv
  */
 
 #include "delta_robot.h"
